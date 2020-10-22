@@ -4,7 +4,7 @@ int main()
 int a;
  for(a=0;a<6;a++)
   {
-    printf("yo world");
+    printf("this is the world you dont want to live world");
   }
 return 0;
 }
